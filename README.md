@@ -1,2 +1,2 @@
 # Sql_notebook_notes
-Notebook notes I took from sql courses.
+notebook notes I took from the path sql courses. The written language in the notes is Turkish.
