@@ -27,4 +27,4 @@ b = preprocessing.normalize(df)
 c = preprocessing.MinMaxScaler(feature_range= (10,20))
 d = c.fit_transform(df)
 print(d)
-#ayni seyi istedigin araliklarda yapiyosun.
+#ayni seyi istedigin araliklarda yapiyosun. 
