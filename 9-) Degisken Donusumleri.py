@@ -32,7 +32,7 @@ a = lbe.fit_transform(df["day"],df["day"])
 print(a)
 #yanlis cikarimlar olusturabilir stringi sayisal degere cevirmek
 #bunu duzeltmek icin "One-Hot" Donusumu yapicaz.
-"""
+""" 
 
 #One-Hot donusumu
 #kac degisken varsa hepsi icin bir sutun olusturuyor.
