@@ -1,4 +1,0 @@
-Oguzhan Akkoyunlu,50,40,30
-Mustafa Akyürek,90,80,20
-Elif Akşit,80,60,20
-Merve Tütüncü,30,70,10
