@@ -1,5 +1,5 @@
-Data Science and Web Development Learning Projects
-This repository contains several projects and lessons that I completed while learning various topics related to data science and web development. The projects and lessons included in this repository are:
+##Data Science and Web Development Learning Projects
+#This repository contains several projects and lessons that I completed while learning various topics related to data science and web development. The projects and #lessons included in this repository are:
 
 Data-preprocessing: A collection of Jupyter notebooks and Python scripts that showcase various data preprocessing techniques such as cleaning, transformation, and feature engineering. These notebooks cover topics such as handling missing values, dealing with outliers, and scaling data.
 javascript-lesson: A set of code examples and exercises to learn the basics of JavaScript programming language, including variables, control structures, functions, and object-oriented programming.
