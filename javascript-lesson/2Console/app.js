@@ -9,6 +9,13 @@
 // console.log(["Ahmet","Mehmet"]);
 // console.log(typeof a);
 
-console.warn("Bu bir uyaridir.");
-console.error("Bu sayfa bulunamadi");
-console.clear();
+//console.warn("Bu bir uyaridir.");
+//console.error("Bu sayfa bulunamadi");
+//console.clear();
+
+let value;
+
+value = 5;
+
+console.log(value);
+console.log('zort');
